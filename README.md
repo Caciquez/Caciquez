@@ -6,7 +6,7 @@
 
 ### &#x1f4c8; GitHub Stats
 
-<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tuliostarling&show_icons=true&locale=en&layout=compact&theme=radical" width=300/></p>
+<p align="left"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Caciquez&show_icons=true&locale=en&layout=compact&theme=radical" width=300/></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Caciquez&theme=radical" /></p>
 
